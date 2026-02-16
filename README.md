@@ -88,12 +88,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mohamedhamed-bot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 <!--START_SECTION:waka-->
 
 ```text
