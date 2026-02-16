@@ -92,7 +92,4 @@
 
 ---
 
-# 🎮 Pacman Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/github-contribution-grid-pacman.svg" alt="Pacman" />
-</p>
+![Pacman](https://metrics.lecoq.io/MohamedHamed-bot?template=classic&config.display=pacman&plugin.isocalendar=1&base=0)
