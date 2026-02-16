@@ -2,22 +2,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=500&height=35&lines=Hi+👋+I'm+Mohamed+Hamed;Data+Analyst+from+Egypt;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%26+Visualization+%26+Dashboards;Always+Learning+New+Skills&center=true" alt="Typing SVG" />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedHamed-bot.MohamedHamed-bot&" alt="visitor badge" />
+  <a href="https://github.com/MohamedHamed-bot">
+    <img src="https://u8views.com/api/v1/github/profiles/134442531/views/day-week-month-total-count.svg">
+  </a>
 </div>
-
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">
-📊 <b>Data Analyst</b> who enjoys working with data and turning it into useful insights for decision-making. <br><br>
-- 🔭 I’m currently working on building interactive dashboards and reports.<br>
-- 📚 I’m currently refining my skills in <b>SQL, Power BI, and Python</b>.<br>
-- ⚡ In my free time, I explore new data visualization techniques and BI projects.
-</p>
+<table>
+  <tr>
+    <td width="60%" align="left" valign="top">
+      <p>
+        📊 <b>Data Analyst</b> who enjoys working with data and turning it into useful insights for decision-making. <br><br>
+        - 🔭 I’m currently working on building interactive dashboards and reports.<br>
+        - 📚 I’m currently refining my skills in <b>SQL, Power BI, and Python</b>.<br>
+        - ⚡ In my free time, I explore new data visualization techniques and BI projects.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -40,7 +48,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
 
 
 ###
