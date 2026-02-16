@@ -91,5 +91,5 @@
 <!--START_SECTION:waka-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/github-metrics.svg" alt="Pacman Activity" />
+  <img src="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/github-metrics.svg" alt="Pacman" />
 </p>
