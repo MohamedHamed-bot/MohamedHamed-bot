@@ -90,6 +90,10 @@
 
 <!--START_SECTION:waka-->
 
----
-
-![Pacman](https://metrics.lecoq.io/MohamedHamed-bot?template=classic&config.display=pacman&plugin.isocalendar=1&base=0)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohamedHamed-bot/MohamedHamed-bot/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
