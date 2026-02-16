@@ -90,5 +90,6 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Python   4 hrs 12 mins   ████████████████████████   100.00 %
+<p align="center">
+  <img src="pacman-contributions.svg" width="100%" alt="Pacman Activity">
+</p>
