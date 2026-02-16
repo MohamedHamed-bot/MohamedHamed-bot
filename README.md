@@ -89,7 +89,3 @@
 ---
 
 <!--START_SECTION:waka-->
-
-<p align="center">
-  <img src="pacman-contributions.svg" width="100%" alt="Pacman Activity">
-</p>
