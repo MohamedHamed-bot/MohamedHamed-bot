@@ -23,12 +23,12 @@ jobs:
           base: ""
           config_display: pacman
           plugin_isocalendar: yes
-          filename: github-contribution-grid-pacman.svg
+          filename: pacman.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pacman.svg
+          git commit -m "Update pacman graph" || exit 0
+          git push
