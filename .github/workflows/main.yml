@@ -2,7 +2,7 @@ name: generate-pacman-graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # بيشتغل كل يوم الساعة 12 بالليل
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -11,6 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: generate-pacman-svg
         uses: lowlighter/metrics@latest
@@ -19,15 +21,14 @@ jobs:
           user: MohamedHamed-bot
           template: classic
           base: ""
+          config_display: pacman
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          # هنا بنحدد إن الشكل يكون Pacman
-          config_display: pacman 
-          
+          filename: github-contribution-grid-pacman.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: metrics
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
