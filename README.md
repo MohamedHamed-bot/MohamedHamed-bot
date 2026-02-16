@@ -1,12 +1,36 @@
-<!-- ================= PROFILE README ================= -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=2196F3&width=500&height=35&lines=Hi+👋+I'm+Mohamed+Hamed;Data+Analyst+from+Egypt+🇪🇬;Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%26+Visualization;Always+Learning+New+Skills&center=true">
+<img src="https://readme-typing-svg.herokuapp.com?color=2196F3&width=500&height=35&lines=Hi+👋+I'm+Mohamed+Hamed;Data+Analyst+from+Egypt;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%26+Visualization+%26+Dashboards;Always+Learning+New+Skills&center=true">
 </p>
 
 ---
 
-# 🖥️ Technical Skills:
+# 🙋‍♂️ About Me
+
+<table>
+<tr>
+<td width="60%">
+
+📊 Data Analyst who enjoys working with data and turning it into useful insights for decision-making  
+
+- Building interactive dashboards and reports  
+- Skilled in Excel, SQL, Power BI, and Python  
+- Data Cleaning & Visualization  
+- Continuously improving my analytics skills  
+- Interested in BI & Analytics projects  
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🖥️ Technical Skills
 
 <p align="left">
 
@@ -54,21 +78,13 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamed-bot&theme=radical&border=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=mohamedhamed-bot&theme=radical&border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamed-bot&theme=radical)
-
----
-
-# 📊 Data Analyst GIF
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
-</p>
 
 ---
 
