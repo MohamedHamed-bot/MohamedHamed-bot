@@ -1,3 +1,5 @@
+<img src="banner.svg" width="100%" alt="banner"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&random=false&width=700&height=70&lines=Mohamed+Hamed+%F0%9F%91%8B;Data+Analyst+%7C+BI+Developer+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Excel" alt="Typing SVG" />
